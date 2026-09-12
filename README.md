@@ -1053,6 +1053,4 @@ subfinder -d target.com -silent \
 
 ---
 
-## 📄 Lisans
-
-MIT Lisansı kapsamında lisanslanmıştır. Cybernote tarafından oluşturulmuş ve sürdürülmektedir © 2026
+ © 2026
