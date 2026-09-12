@@ -1,8 +1,7 @@
 # 🕵️‍♂️ Tam Bug Bounty Avcılığı & Red Team Metodolojisi 2026 
 
-> **Cybernote** tarafından hazırlanmıştır — Hedefleyen Red Team Operatörü ve Bug Bounty Avcısı. Bu repository; web uygulama güvenlik testleri için metodolojimi, notlarımı ve iş akışımı belgeler.
+> **vNez** tarafından hazırlanmıştır — Hedefleyen Red Team Operatörü ve Bug Bounty Avcısı. Bu repository; web uygulama güvenlik testleri için metodolojimi, notlarımı ve iş akışımı belgeler.
 
-⭐ Bu projeyi faydalı bulduysanız, daha fazla Offensive Security araştırması için X'te beni takip edin: [https://x.com/Cybernote9](https://x.com/Cybernote9)
 
 ---
 
